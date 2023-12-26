@@ -1,19 +1,21 @@
-# 12 примеров отчетов для бизнеса
+# 13 примеров отчетов для бизнеса
 
 1. Рентабельность клиента 
 1. Корпоративные расходы
-1. Анализ затрат ИТ-специалистов 
-1. Найм сотрудников и история 
-1. Кадры 
-1. Анализ возможностей продаж
-1. Анализ закупок 
-1. Региональные продажи
-1. Анализ продаж магазина
-1. Анализ конкурентного маркетинга 
-1. Продажи и маркетинг 
-1. Анализ качества поставщика
+1. [Анализ затрат на ИТ ](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-it-spend)
+1. [Найм сотрудников и история ](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-employee-hiring-history)
+1. [Кадры](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-human-resources) 
+1. [Анализ возможностей выручки]([https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-opportunity-analysis](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-revenue-opportunities))
+1. [Анализ возможностей ](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-opportunity-analysis)
+1. [Анализ закупок ](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-procurement)
+1. [Региональные продажи](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-regional-sales)
+1. [Анализ продаж магазина](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-store-sales)
+2. [Анализ розничной торговли](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-retail-analysis)
+1. [Анализ конкурентного маркетинга ](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-competitive-marketing-analysis)
+1. [Продажи и маркетинг](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-sales-and-marketing)
+1. [Анализ качества поставщика](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-supplier-quality)
 
-[Скачать примеры](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-datasets)
+[Скачать эти примеры](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-datasets)
 
 # Сделать свой отчет
 
