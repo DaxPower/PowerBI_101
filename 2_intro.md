@@ -17,6 +17,8 @@
 
 [Скачать эти примеры](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-datasets)
 
+* Данные и их подписи в отчетах - на английском.
+
 # Сделать свой отчет
 
 ![image](https://github.com/DaxPower/PowerBI_101/assets/126323252/62dcd530-18a3-4ec1-a590-6faea187999d)
