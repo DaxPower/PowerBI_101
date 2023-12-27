@@ -5,7 +5,7 @@
 1. [Анализ затрат на ИТ ](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-it-spend)
 1. [Найм сотрудников и история ](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-employee-hiring-history)
 1. [Кадры](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-human-resources) 
-1. [Анализ возможностей выручки]([https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-opportunity-analysis](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-revenue-opportunities))
+1. [Анализ возможностей выручки](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-opportunity-analysis)
 1. [Анализ возможностей ](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-opportunity-analysis)
 1. [Анализ закупок ](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-procurement)
 1. [Региональные продажи](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-regional-sales)
