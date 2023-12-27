@@ -1,7 +1,7 @@
 # 13 примеров отчетов для бизнеса
 
-1. Рентабельность клиента 
-1. Корпоративные расходы
+1. [Рентабельность клиента](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-customer-profitability) 
+1. [Корпоративные расходы](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-corporate-spend)
 1. [Анализ затрат на ИТ ](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-it-spend)
 1. [Найм сотрудников и история ](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-employee-hiring-history)
 1. [Кадры](https://learn.microsoft.com/ru-ru/power-bi/create-reports/sample-human-resources) 
